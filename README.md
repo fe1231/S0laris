@@ -1,2 +1,12 @@
 # S0laris
 maquininha
+
+
+
+
+
+
+
+
+
+
