@@ -1,0 +1,204 @@
+
+
+div{
+	padding: 5em;
+	background: black;
+}
+
+
+h1{
+	text-align: center;
+	color: lightgray;
+	font-size: 50px;
+	font-style:bold;
+	text-transform: uppercase;
+	font-weight: 900s;
+
+}
+ p{
+
+	font-size: 40px;
+	color: black;
+
+}
+.cla{font-size: 50px;}
+
+
+.taxa{
+
+	text-align: center;
+	color: 	#4F4F4F;
+	font-size: 30px;
+	padding top:30px;
+}
+
+.produtos {
+	width: 940px;
+	margin:0px auto;
+	padding: 50px 0px;
+}
+.produtos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding:30px 20px;
+	box-sizing: border-box;
+	border:2px solid white;
+	border-radius: 10px;
+}
+
+.produtos li:hover{
+	border-color: black;
+}
+
+.produtos li:active{
+	border-color: darkorange;
+}
+
+h2{font-size: 40px;
+color: 	#8B0000}
+
+
+.produto-descricao{
+	font-size: 18px;
+}
+
+.descricao {
+	font-size: 20px;
+	color:#00BFFF;
+}
+
+.produto-preco {
+ 	font-size: 25px; 
+ 	font-weight: bold;
+ 	margin-top: 10px;
+}
+
+.tx{
+
+	text-align: center;
+	font-size: 20px
+}
+
+#zip{
+
+	width: 500px;
+	height: 500px; }
+
+.padding{
+
+	margin-top: 500px;
+}
+
+.chue{background: white;
+	padding:50px;
+}
+
+#lil{width: 400px;
+height: 400px;}
+
+#x{font-style:bold;
+	text-transform: uppercase;
+	font-weight: 900px;
+	color: black;}
+
+.nas{
+	font-size: 35px;
+	font-style:bold;
+	text-transform: uppercase;
+	font-weight: 900s;
+	color: black;
+
+}
+.enviar{
+	position: absolute;
+	right: 350px;
+	text-align: center;
+	width: 200px;
+	padding: 15px 0px;
+	background:black;
+	color:white;
+	font-weight: bold;
+	font-size: 18px;
+	border:none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+	text-decoration: none;
+}
+
+.enviar:hover{
+	background:white;
+	transform:scale(1.2);
+	color: black;
+}
+
+.evi{position: absolute;	
+	text-align: center;
+	left: 530px;
+	width: 200px;
+	padding: 15px 0px;
+	background:black;
+	color:white;
+	font-weight: bold;
+	font-size: 18px;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+	text-decoration: none;}
+
+
+.evi:hover{
+	background:lightgray;
+	transform:scale(1.2);
+	color: black;}
+
+
+.ajuda{
+
+	background: lightgray;
+	padding: 200px;
+
+
+}
+
+.help{
+
+	font-size: 35px;
+	color: black;
+	font-style: bold;
+	text-align: center;
+
+}
+
+.hp{font-size: 30px;
+	color: black;
+	font-style: bold;
+	text-align: center;}
+
+
+	.input-padrao {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 20px;
+	width: 50%
+}
+
+.xaxa{}
+
+.checkbox{
+	margin: 20px 0;
+}
+
+.mensage{
+	margin-top: 30px;
+
+}
+
+.rodap{
+color: black
+background:lightgray;
+
+}
